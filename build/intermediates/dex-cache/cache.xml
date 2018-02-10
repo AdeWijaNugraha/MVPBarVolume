@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MVPBarVolume/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5dcce313b65cefc08e9cd696a2058fa728e8ce52">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MVPBarVolume/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1de4f7bba165badd945c78b0e94484f7ed4e8e6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MVPBarVolume/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MVPBarVolume/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f55a87b110d5c6b2348b169810fc4ca15ae38bf8/classes.dex" />
+    </item>
+
+</items>
